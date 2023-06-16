@@ -1,8 +1,8 @@
 {
-  "name": "dummy-api",
-  "version": "1.0.0",
+  "name": "@ak46rocks/dummy-api",
+  "version": "1.0.3",
   "main": "lib/index.js",
-  "types": "lib.index.d.ts",
+  "types": "lib/index.d.ts",
   "scripts": {
     "build": "tsc",
     "prepare": "npm run build"
